@@ -1,5 +1,5 @@
 streamlit
-keras
+tensorflow
 numpy
 pillow
 matplotlib

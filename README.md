@@ -74,7 +74,7 @@ The project uses a Convolutional Neural Network (CNN) built using TensorFlow/Ker
 
 **Example architecture:**
 
-![App Screenshot](https://github.com/rohitvirdi5rv-crypto/Image-Classification-Project/blob/3498f1671ce74148d1c4d7215fe1223f4499d6cb/Project%20Related%20Screenshots/Screenshot%202026-03-13%20232136.png)
+<img width="443" height="272" alt="Image" src="https://github.com/user-attachments/assets/c125a72b-faf9-44f7-a2be-d95c0ee61bef" />
 
 ---
 ## 4. Model Training

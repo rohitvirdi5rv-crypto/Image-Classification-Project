@@ -120,8 +120,6 @@ The project includes a user-friendly web interface built with Streamlit.
 ---
 ## 🎥 Application Demo
 
-Click the image below to watch the demo.
-
-[![Demo](https://github.com/rohitvirdi5rv-crypto/Image-Classification-Project/blob/365fdb2fb58b3273f4aabf998de0ec5b83124de3/Images%20%26%20Video%20used%20in%20readme%20file/F1.png)](https://github.com/rohitvirdi5rv-crypto/Image-Classification-Project/blob/260fd1c37602533cd3bf47801612fecc9b59b292/Images%20%26%20Video%20used%20in%20readme%20file/Video%20Project%203.mp4)
+https://github.com/user-attachments/assets/60320976-8c38-4a7f-80a6-e7cb46566c49
 
 ---

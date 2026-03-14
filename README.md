@@ -119,10 +119,10 @@ The project includes a user-friendly web interface built with Streamlit.
 ## 🎥 Application Demo
 
 Click the video below to watch the demo:
-```
+
 https://github.com/user-attachments/assets/60320976-8c38-4a7f-80a6-e7cb46566c49
 
-```
+
 ---
 # ⚙️ Installation and Setup
 

@@ -119,7 +119,62 @@ The project includes a user-friendly web interface built with Streamlit.
 ## 🎥 Application Demo
 
 Click the video below to watch the demo:
-
+```
 https://github.com/user-attachments/assets/60320976-8c38-4a7f-80a6-e7cb46566c49
+
+```
+---
+# ⚙️ Installation and Setup
+
+## 1. Download the repository
+
+It will be downloaded in Zip file so you have to **Extract** the files. A direct link to the repository is available below or click on **Download Repository** and you will be redirected to the repository.
+
+```
+https://github.com/rohitvirdi5rv-crypto/Image-Classification-Project.git
+```
+
+[Download Repository](https://github.com/rohitvirdi5rv-crypto/Image-Classification-Project.git)
+
+---
+## 2. Create a virtual environment
+
+```
+python -m venv venv
+```
+
+**Activate it on Windows:**
+
+```
+venv\Scripts\activate
+```
+
+---
+## 5. Run the Streamlit app
+
+```
+streamlit run app.py
+```
+
+The application will open in your browser.
+
+---
+## Live Project
+
+The application has been successfully deployed.  
+You can check out the **Image Flower Classifier** using the link below:
+
+[Click here to open the deployed application](https://image-classification-project-dbnnidvg68ep6zmelefdcj.streamlit.app/)
+
+---
+## 🔮 Future Improvements
+
+Possible improvements for this project:
+
+* Add more flower categories
+* Improve accuracy using data augmentation
+* Use transfer learning models (ResNet, MobileNet)
+* Deploy the application online
+* Add prediction confidence score
 
 ---

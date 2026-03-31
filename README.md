@@ -142,13 +142,19 @@ https://github.com/rohitvirdi5rv-crypto/Image-Classification-Project.git
 ```
 python -m venv venv
 ```
+---
+## 3. Activate Environment
 
-**Activate it on Windows:**
-
+Activate it on Windows:
 ```
 venv\Scripts\activate
 ```
+---
 
+## 4️. Install Dependencies
+```
+pip install -r requirements.txt
+```
 ---
 ## 5. Run the Streamlit app
 
